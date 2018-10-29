@@ -22,15 +22,25 @@ The results are displayed in descending order by sequence frequency, so the most
 Based on the following sample data, sequence “Page 1, Page 2, Page 3” is the most common. It appears three times in the results:
 
 User A: Page 1
+
 User B: Page 1
+
 User B: Page 2
+
 User B: Page 3
+
 User B: Page 2
+
 User A: Page 2
+
 User A: Page 3
+
 User A: Page 4
+
 User A: Page 1
+
 User A: Page 2
+
 User A: Page 3
 
 ## Screenshot/Walkthrough
