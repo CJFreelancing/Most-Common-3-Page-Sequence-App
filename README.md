@@ -47,7 +47,7 @@ User A: Page 3
 
 Here's a screenshot of the application:
 
-<img src='https://imgur.com/a/974JBCG' title='User Story 1' width='' alt='User Story 1' />
+<img src='https://i.imgur.com/Qz5eDl0.jpg' title='User Story 1' width='' alt='User Story 1' />
 
 ## Open source libraries 
 
