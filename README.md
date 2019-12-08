@@ -6,7 +6,7 @@ This project creates an Android app that downloads a text file from a server, pa
 - Download -
 The file is retrieved from the following URL:
 
-http://dev.inspiringapps.com/Files/IAChallenge/30E02AAA-B947-4D4B-8FB6-9C57C43872A9/Apache.log
+https://gist.githubusercontent.com/CJMobileApps/eabc023caaa09ae007ad36ad7a7a723c/raw/9036d6a6aa7d1210f6166fee82c64c71c2121c35/Apache.log
 
 - Parse -
 The file is a standard Apache web server access log. The problem is to find out the most common three-page sequences in the file. A three-page sequence is three consecutive requests from the same user. In case it helps simplify your processing, you can assume the following about the contents:
