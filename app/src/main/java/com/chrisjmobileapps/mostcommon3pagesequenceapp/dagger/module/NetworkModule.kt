@@ -78,7 +78,7 @@ class NetworkModule {
     @Provides
     fun retrofit(okHttpClient: OkHttpClient): Retrofit {
         return Retrofit.Builder()
-                .baseUrl("http://dev.inspiringapps.com/")
+                .baseUrl("https://gist.githubusercontent.com/CJMobileApps/")
                 .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
                 .client(okHttpClient)
                 .build()
